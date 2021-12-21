@@ -1,0 +1,104 @@
+table td a{
+	text-align: center;
+}
+
+.one{
+	 background-image: url("image/background img 3.jpg");
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  font-size: 60px;
+
+}
+.two{
+	text-align: center;
+	font-size: 20px;
+}
+.tree{
+	text-align: center;
+	font-size: 45px;
+}
+.four{
+	text-align: center;
+	font-size: 30px;
+
+}
+.five{
+	text-align: center;
+	font-size: 45px;
+}
+.six{
+	text-align: center;
+	font-size: 20px;
+}
+.saben{
+	text-align: center;
+	font-size: 20px;
+}
+.eight{
+	text-align: center;
+	font-size: 20px;
+}
+.nine{
+	text-align: center;
+	font-size: 40px;
+}
+.ten{
+	text-align: center;
+	font-size: 20px;
+}
+.elaben{
+
+	font-size: 60px;
+}
+.twelve{
+	font-size: 30px;
+}
+.thirteen{
+	font-size:25px;
+}
+.furteen{
+	font-size: 25px;
+}
+.fifteen{
+	font-size: 40px;
+}
+.sixteen{
+	font-size: 25px;
+}
+.seventeen{
+	text-align: center;
+	font-size: 60px;
+}
+.eightteen{
+	font-size: 20px;
+}
+.nineteen{
+	font-size: 60px;
+}
+.twenty{
+	font-size: 25px;
+}
+.twentyone{
+	font-size: 40px;
+}
+.twentytwo{
+	font-size: 20px;
+}
+.twentytree{
+	text-align: center;
+	font-size: 60px;
+}
+.twentyfour{
+	text-align: center;
+	font-size: 50px;
+}
+.twentyfive{
+	font-size: 20px;
+}
+.twentysix{
+	text-align: center;
+	font-size: 50px;
+}
